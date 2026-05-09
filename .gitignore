@@ -22,10 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Personal Gallery Images
-public/img1.jpeg
-public/img2.jpeg
-public/img3.jpeg
-public/img4.jpeg
-public/img5.jpeg
